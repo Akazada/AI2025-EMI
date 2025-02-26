@@ -9,6 +9,9 @@ GAN (Generative Adversarial Network) is a deep learning model with two networks:
 a generator that creates fake data and a discriminator that distinguishes it from real data, improving through competition.
 It's widely used in image generation and data enhancement.
 ***
+## 3:什麼是transfomer?
+A Transformer is a deep learning model that uses self-attention to process and understand sequences of data, widely used in language tasks.
+***
 # Mission3
 ***
 ## 1. How will AI change our lives in the next 10 years? (AI 在未來 10 年會如何改變我們的生活？)
