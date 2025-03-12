@@ -247,31 +247,32 @@ Japanese (日本語):
    - The benefits of effective teamwork
    - Final thoughts on building a successful team
 # 1️⃣6️⃣​Automated Data Reports (數據報告生成, データレポート生成) Generate structured reports "Generate a CSV-format sales report with monthly data
-Month,Product,Units Sold,Revenue ($)
-January,Product A,150,3000
-January,Product B,200,4000
-February,Product A,180,3600
-February,Product B,220,4400
-March,Product A,210,4200
-March,Product B,250,5000
-April,Product A,170,3400
-April,Product B,240,4800
-May,Product A,190,3800
-May,Product B,210,4200
-June,Product A,230,4600
-June,Product B,260,5200
-July,Product A,250,5000
-July,Product B,270,5400
-August,Product A,220,4400
-August,Product B,230,4600
-September,Product A,240,4800
-September,Product B,250,5000
-October,Product A,200,4000
-October,Product B,210,4200
-November,Product A,210,4200
-November,Product B,240,4800
-December,Product A,260,5200
-December,Product B,280,5600
+| Month      | Product   | Units Sold | Revenue ($) |
+|------------|-----------|------------|-------------|
+| January    | Product A | 150        | 3000        |
+| January    | Product B | 200        | 4000        |
+| February   | Product A | 180        | 3600        |
+| February   | Product B | 220        | 4400        |
+| March      | Product A | 210        | 4200        |
+| March      | Product B | 250        | 5000        |
+| April      | Product A | 170        | 3400        |
+| April      | Product B | 240        | 4800        |
+| May        | Product A | 190        | 3800        |
+| May        | Product B | 210        | 4200        |
+| June       | Product A | 230        | 4600        |
+| June       | Product B | 260        | 5200        |
+| July       | Product A | 250        | 5000        |
+| July       | Product B | 270        | 5400        |
+| August     | Product A | 220        | 4400        |
+| August     | Product B | 230        | 4600        |
+| September  | Product A | 240        | 4800        |
+| September  | Product B | 250        | 5000        |
+| October    | Product A | 200        | 4000        |
+| October    | Product B | 210        | 4200        |
+| November   | Product A | 210        | 4200        |
+| November   | Product B | 240        | 4800        |
+| December   | Product A | 260        | 5200        |
+| December   | Product B | 280        | 5600        |
 # 1️⃣7️⃣​Marketing Copywriting (行銷文案, マーケティングコピー作成) Apply AI to advertising "Write a product description for [Product Name] using the FAB method (Feature, Advantage, Benefit)."
 Product Name: *** SmartFit 360 Fitness Tracker ***
 Feature:
