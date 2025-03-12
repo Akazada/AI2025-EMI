@@ -141,11 +141,25 @@ To make a self-introduction more engaging, adding personal anecdotes, accomplish
 - **Q3:** What **prompt adjustments** can improve repeatability in AI outputs?
  Prompt Adjustments for Repeatability: To improve repeatability, prompts could specify a focus on key performance indicators (e.g., specific metrics for players like Sasaki) or ask for detailed comparisons between these spring training surprises.
 ***
-#📝 Quiz 3: Keyword Extraction & Repeatability Test (關鍵字提取與一致性測試 | キーワード抽出テスト)
+# 📝 Quiz 3: Keyword Extraction & Repeatability Test (關鍵字提取與一致性測試 | キーワード抽出テスト)
+📌 Objective: Use AI to extract important keywords and check for repeatability in multiple attempts.
+- **Q1:** Were the **top keywords** identical in all attempts?
+No, there were slight variations. In some attempts, "customer service" was mentioned instead of "finance," and in another, "AI" was used instead of "artificial intelligence."
+- **Q2:** How does AI determine **keyword importance** in a paragraph?
+  AI likely uses factors like frequency, relevance, and context to identify the most significant terms. Words related to the central theme of the paragraph (e.g., AI, NLP, deep learning) are typically ranked higher, while domain-specific terms (like healthcare or finance) are also selected based on their relevance to the discussion.
+- **Q3:** What strategies can **improve AI consistency** in keyword extraction?
+To improve consistency, prompts could include a clearer focus on the core theme of the text. Additionally, specifying whether synonyms should be treated as identical (e.g., "AI" vs. "artificial intelligence") or narrowing the keyword set (e.g., "select only industry-specific terms") could enhance repeatability.
+***
+# 1️⃣1️⃣​Article in Different Styles (不同風格文章, 異なる文体の文章) Generate content in multiple styles "Write an article about Hsinchu as a news report and as an explanatory text in 50 words in English, Chinese, and Japanese."
+English:
+Hsinchu, located in northern Taiwan, is known for its thriving tech industry, often called the "Silicon Valley of Taiwan." With a strong emphasis on innovation and research, the city is home to numerous semiconductor companies and educational institutions, making it a vital hub for technological advancements.
 
+Chinese (中文):
+新竹位於台灣北部，以蓬勃的科技產業著稱，常被譽為“台灣的矽谷”。該市重視創新與研究，擁有眾多半導體公司和教育機構，是科技發展的重要樞紐。
 
-
-
+Japanese (日本語):
+新竹は台湾北部に位置し、繁栄するテクノロジー産業で知られ、「台湾のシリコンバレー」とも呼ばれています。革新と研究に重点を置き、半導体企業や教育機関が多く、技術の進歩において重要な拠点です。
+# 1️⃣2️⃣​Dramatic Writing (戲劇化寫作, ドラマチックな文章) Use exaggerated or dramatic tones "Describe AI’s impact on society in a dramatic tone in English, Chinese, and Japanese."
 
 
 
