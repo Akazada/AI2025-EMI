@@ -246,11 +246,50 @@ Japanese (日本語):
 ## 6. Conclusion
    - The benefits of effective teamwork
    - Final thoughts on building a successful team
+# 1️⃣6️⃣​Automated Data Reports (數據報告生成, データレポート生成) Generate structured reports "Generate a CSV-format sales report with monthly data
+Month,Product,Units Sold,Revenue ($)
+January,Product A,150,3000
+January,Product B,200,4000
+February,Product A,180,3600
+February,Product B,220,4400
+March,Product A,210,4200
+March,Product B,250,5000
+April,Product A,170,3400
+April,Product B,240,4800
+May,Product A,190,3800
+May,Product B,210,4200
+June,Product A,230,4600
+June,Product B,260,5200
+July,Product A,250,5000
+July,Product B,270,5400
+August,Product A,220,4400
+August,Product B,230,4600
+September,Product A,240,4800
+September,Product B,250,5000
+October,Product A,200,4000
+October,Product B,210,4200
+November,Product A,210,4200
+November,Product B,240,4800
+December,Product A,260,5200
+December,Product B,280,5600
+# 1️⃣7️⃣​Marketing Copywriting (行銷文案, マーケティングコピー作成) Apply AI to advertising "Write a product description for [Product Name] using the FAB method (Feature, Advantage, Benefit)."
+Product Name: *** SmartFit 360 Fitness Tracker ***
+Feature:
+The SmartFit 360 Fitness Tracker features a high-precision heart rate monitor, built-in GPS, and a 7-day battery life.
 
+Advantage:
+With its advanced heart rate monitoring and GPS capabilities, you can track your workouts with pinpoint accuracy, whether you're running, cycling, or doing yoga, while the long battery life ensures it lasts through your most intense training sessions without needing frequent charging.
 
+Benefit:
+Achieve your fitness goals faster with real-time insights into your health, performance, and progress, giving you the motivation and data needed to optimize your workouts and live a healthier lifestyle—without the hassle of constantly recharging your device.
 
+This product description uses the FAB method to highlight the feature, advantage, and benefit of the SmartFit 360 Fitness Tracker.
+# 1️⃣8️⃣​Tone & Style Adjustments (語氣調整, 文体調整) Modify writing tone "Write a professional and an informal article on machine learning in 100 words."
+Professional:
+Machine learning (ML) is a subset of artificial intelligence (AI) that enables systems to learn from data and make predictions or decisions without explicit programming. By employing algorithms such as supervised and unsupervised learning, ML systems analyze patterns in data, improving their accuracy over time. Applications range from natural language processing to autonomous driving and predictive analytics in various industries like healthcare, finance, and retail. As the volume of data grows, the potential of machine learning continues to expand, transforming how businesses operate and shaping the future of technology.
 
-
+Informal:
+Machine learning is all about teaching computers to learn from data and make decisions on their own. Instead of telling the computer exactly what to do, we feed it lots of data, and it figures out patterns and trends. It’s used everywhere—from recommending movies on Netflix to self-driving cars! The more data we give, the smarter the system gets. It's a cool way technology is changing how we solve problems, and it's only going to keep growing, impacting everything from healthcare to finance. Machine learning is definitely shaping the future!
 
 
 
