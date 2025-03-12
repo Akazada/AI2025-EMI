@@ -160,11 +160,92 @@ Chinese (中文):
 Japanese (日本語):
 新竹は台湾北部に位置し、繁栄するテクノロジー産業で知られ、「台湾のシリコンバレー」とも呼ばれています。革新と研究に重点を置き、半導体企業や教育機関が多く、技術の進歩において重要な拠点です。
 # 1️⃣2️⃣​Dramatic Writing (戲劇化寫作, ドラマチックな文章) Use exaggerated or dramatic tones "Describe AI’s impact on society in a dramatic tone in English, Chinese, and Japanese."
+English:
+In a world on the brink of transformation, Artificial Intelligence rises like an unstoppable force. It changes industries, redefines human potential, and challenges the very essence of what it means to be alive. The promise of boundless innovation is shadowed by fears of obsolescence, as humanity faces its greatest revolution yet.
 
+Chinese (中文):
+在即將改變的世界中，人工智能如同一股無法阻擋的力量崛起。它改變了行業，重塑了人類潛能，並挑戰了存在的本質。無限創新的承諾，伴隨著對過時的恐懼，當人類面對歷史上最大的革命時，彷彿進入了未知的時代。
 
+Japanese (日本語):
+変革の瀬戸際に立つ世界で、人工知能は止められない力として立ち上がる。産業を変え、人間の可能性を再定義し、生きることの本質そのものを挑戦する。限りない革新の約束は、時代遅れへの恐怖に影を落とし、人類は最大の革命を迎えようとしている。
+# 1️⃣3️⃣​Table Formatting (表格生成, 表作成) Generate structured tables "Create a table listing 5 fruits and their prices."
+| **Fruit**      | **Price (per kg)** |
+|----------------|--------------------|
+| Apple          | $3.50              |
+| Banana         | $1.20              |
+| Orange         | $2.00              |
+| Mango          | $4.00              |
+| Strawberry     | $5.50              |
+# 1️⃣4️⃣​Step-by-Step Lists (步驟列表, ステップリスト作成) Generate a list with clear steps "List 5 key steps to learn Python programming, with one-sentence descriptions in English, Chinese, and Japanese."
+English:
+Understand the Basics – Learn about Python syntax, variables, and data types to build a strong foundation.
+Practice Coding – Write small Python programs regularly to reinforce learning and problem-solving.
+Learn Libraries and Frameworks – Explore popular libraries like NumPy, pandas, and Flask for data manipulation and web development.
+Work on Projects – Build real-world projects to apply your knowledge and gain hands-on experience.
+Join a Community – Participate in coding communities to share knowledge and stay motivated.
+Chinese (中文):
+理解基础知识 – 学习Python语法、变量和数据类型，打好基础。
+练习编程 – 定期编写小型Python程序来巩固学习和解决问题的能力。
+学习库和框架 – 探索像NumPy、pandas和Flask这样的流行库，用于数据处理和Web开发。
+进行项目实践 – 构建实际项目来应用所学知识，获得动手经验。
+加入社区 – 参与编程社区，分享知识并保持动力。
+Japanese (日本語):
+基本を理解する – Pythonの構文、変数、データ型について学び、基礎を固めます。
+コーディングの練習 – 定期的に小さなPythonプログラムを書いて、学習を強化し、問題解決力を向上させます。
+ライブラリとフレームワークを学ぶ – NumPy、pandas、Flaskなどの人気ライブラリを学び、データ操作やウェブ開発を習得します。
+プロジェクトに取り組む – 実際のプロジェクトを作成して、学んだ知識を実践し、実務経験を積みます。
+コミュニティに参加する – コーディングコミュニティに参加し、知識を共有してモチベーションを維持します。
+# 1️⃣5️⃣​Markdown Formatting (Markdown 格式, Markdown 書式設定) Use Markdown in AI-generated text "Generate a Markdown outline on 'Effective Teamwork'."
+# Effective Teamwork
 
+## 1. Introduction
+   - Definition of effective teamwork
+   - Importance in personal and professional environments
 
+## 2. Key Elements of Effective Teamwork
+   - **Communication**
+     - Clear, open, and honest communication
+     - Active listening
+   - **Collaboration**
+     - Working together towards a common goal
+     - Sharing ideas and resources
+   - **Trust**
+     - Building trust among team members
+     - Being dependable and accountable
+   - **Conflict Resolution**
+     - Managing disagreements constructively
+     - Finding common ground
 
+## 3. Roles in a Team
+   - **Leader**
+     - Providing direction and support
+     - Motivating and guiding the team
+   - **Contributor**
+     - Completing assigned tasks effectively
+     - Sharing knowledge and expertise
+   - **Supporter**
+     - Encouraging others
+     - Fostering a positive team atmosphere
+
+## 4. Strategies for Enhancing Teamwork
+   - **Regular Team Meetings**
+     - Keeping everyone aligned and informed
+   - **Clear Goals and Objectives**
+     - Ensuring focus and direction
+   - **Recognizing Achievements**
+     - Acknowledging individual and team successes
+
+## 5. Challenges in Teamwork
+   - **Personality Conflicts**
+     - Addressing differences and working harmoniously
+   - **Unequal Participation**
+     - Ensuring everyone contributes equally
+   - **Lack of Clear Communication**
+     - Overcoming communication barriers
+
+## 6. Conclusion
+   - The benefits of effective teamwork
+   - Final thoughts on building a successful team
 
 
 
