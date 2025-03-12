@@ -306,6 +306,58 @@ Oh, climate change? It's just the Earth casually warming up a bit. Who doesn’t
 
 Neutral:
 Climate change refers to long-term changes in temperature and weather patterns, largely driven by human activities like burning fossil fuels. This results in global warming, extreme weather events, rising sea levels, and disruptions to ecosystems. Addressing climate change requires global cooperation to reduce emissions and adapt to new environmental conditions.
+***
+# AI Techniques and Template Usage
+
+## 2️⃣1️⃣​ Prompt Variables (變數化設計, プロンプト変数化)
+Design flexible AI prompts  
+**Template:**  
+"Create a template to generate product descriptions using 6 placeholders in English, Chinese, and Japanese."
+
+## 2️⃣2️⃣​ Automated Template Filling (自動化模板, 自動入力テンプレート)
+Automate text generation  
+**Template:**  
+"Please use the following template to write a product description for [car]: '[Product Name] is a [Type] with [Feature 1] and [Feature 2], offering [Advantage].’"
+
+## 2️⃣3️⃣​ Chain of Thought (CoT, 思維鏈)
+Guide AI through reasoning steps  
+**Example Prompt:**  
+"If I have 10 apples, give 3 away, buy 5 more, and eat 1, how many remain?"
+
+## 2️⃣4️⃣​ Multi-Step Math (多步數學, 数学的な推論)
+Break down math problems step by step  
+**Example Prompt:**  
+"A car travels 60 km/h for 4 hours. How far does it go? Explain step-by-step."
+
+## 2️⃣5️⃣​ Zero-shot CoT (零樣本CoT, ゼロショットCoT)
+Answer without prior training  
+**Example Prompt:**  
+"A student has 20 dollars, buys a pen for 5 dollars, a book for 10 dollars. How much remains?"
+
+## 2️⃣6️⃣​ Tree-of-Thoughts (ToT, 思維樹技術)
+Simulate multiple expert opinions  
+**Example Prompt:**  
+"Where is the ball if someone moves it between rooms? Let three AI experts analyze the answer."
+
+## 2️⃣7️⃣​ Variable Prompt Design (變數化提示詞, 変数化プロンプト)
+Make prompts adaptable  
+**Template:**  
+"Create a prompt template for computing travel distance based on [Speed] and [Time]."
+
+## 2️⃣8️⃣​ Historical Chain of Thought (歷史推理, 歴史的な推論)
+Analyze history step-by-step  
+**Example Prompt:**  
+"Explain the fall of the Roman Empire step-by-step."
+
+## 2️⃣9️⃣​ Financial AI Analysis (財務分析AI, 財務分析のAI)
+AI-assisted calculations  
+**Example Prompt:**  
+"A restaurant makes $100 per seat. If it has 50 seats and operates 7 days a week, calculate revenue."
+
+## 3️⃣0️⃣​ Real-Time AI Automation (實時AI應用, AI自動化)
+AI-powered solutions  
+**Example Prompt:**  
+"Automate data extraction and generate a summary for the provided datasheet."
 
 
 
