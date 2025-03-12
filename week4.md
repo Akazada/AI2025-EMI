@@ -291,6 +291,21 @@ Machine learning (ML) is a subset of artificial intelligence (AI) that enables s
 
 Informal:
 Machine learning is all about teaching computers to learn from data and make decisions on their own. Instead of telling the computer exactly what to do, we feed it lots of data, and it figures out patterns and trends. It’s used everywhere—from recommending movies on Netflix to self-driving cars! The more data we give, the smarter the system gets. It's a cool way technology is changing how we solve problems, and it's only going to keep growing, impacting everything from healthcare to finance. Machine learning is definitely shaping the future!
+# 1️⃣9️⃣​Paraphrasing & Simplification (改寫練習, 言い換え練習) Convert complex text into simple sentences "Rewrite: 'Deep learning is a neural network technology that processes large datasets. in English, Chinese, and Japanese'"
+English:
+Deep learning is a type of neural network technology that is used to analyze large datasets.
+
+Chinese (中文):
+深度學習是一種神經網絡技術，用於分析大量數據集。
+
+Japanese (日本語):
+ディープラーニングは、大規模なデータセットを分析するために使用されるニューラルネットワーク技術の一種です。
+# 2️⃣0️⃣​Sarcastic vs Neutral Explanations (諷刺 vs 中立, 皮肉と中立の比較) Compare different tones "Explain climate change sarcastically and neutrally."
+Sarcastic:
+Oh, climate change? It's just the Earth casually warming up a bit. Who doesn’t love scorching summers, unpredictable weather, and wildfires becoming the new normal? Rising sea levels? Oh, that’s just nature’s way of giving us more beachfront property! Who cares about polar bears or crop failures when we’ve got all these "exciting" changes happening?
+
+Neutral:
+Climate change refers to long-term changes in temperature and weather patterns, largely driven by human activities like burning fossil fuels. This results in global warming, extreme weather events, rising sea levels, and disruptions to ecosystems. Addressing climate change requires global cooperation to reduce emissions and adapt to new environmental conditions.
 
 
 
