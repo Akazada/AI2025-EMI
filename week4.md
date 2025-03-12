@@ -134,8 +134,12 @@ To make a self-introduction more engaging, adding personal anecdotes, accomplish
 ***
 # 📝 Quiz 2: Summarization & Repeatability Check (摘要測試與再現性檢查 | 要約の再現性チェック)
 📌 Objective: Test AI's consistency by summarizing the same article multiple times.
-
-
+- **Q1:** Did AI provide **consistent key points** across all responses?
+- Consistency in Key Points: The article maintains a consistent focus on surprising performances and standout players, such as Sasaki’s forkball and team upturns.
+- **Q2:** How did AI handle **sentence variation while keeping the meaning intact**?
+- Sentence Variation and Meaning Integrity: The article uses varied phrasing to emphasize Sasaki's performance without altering the core message, such as describing his forkball's "disgusting" movement and its metrics.
+- **Q3:** What **prompt adjustments** can improve repeatability in AI outputs?
+- Prompt Adjustments for Repeatability: To improve repeatability, prompts could specify a focus on key performance indicators (e.g., specific metrics for players like Sasaki) or ask for detailed comparisons between these spring training surprises.
 
 
 
