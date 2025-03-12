@@ -133,5 +133,35 @@ To make a self-introduction more engaging, adding personal anecdotes, accomplish
 <br>A clear prompt helps the AI focus on key details and respond effectively, avoiding confusion and ensuring the message is aligned with the user's intent.
 ***
 # 📝 Quiz 2: Summarization & Repeatability Check (摘要測試與再現性檢查 | 要約の再現性チェック)
+📌 Objective: Test AI's consistency by summarizing the same article multiple times.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
