@@ -106,7 +106,7 @@ The Art of War emphasizes strategy, deception, flexibility, and the importance o
 <br>e.g. "Please introduce me in a professional tone. My name is Yumika, I study information management, and my hobbies are reading books."
 **ANSWER**:
 <br>Introduction:
-<br>Hello, my name is Yumika. I am currently studying Information Management, focusing on acquiring knowledge and skills in this ever-evolving field. 
+<br>Hello, my name is Art. I am currently studying Information Management, focusing on acquiring knowledge and skills in this ever-evolving field. 
 <br>In my personal time, I enjoy reading books, which allows me to continuously expand my horizons and deepen my understanding of various topics.
 
 ## 🔍 **Reflection Questions:**
@@ -140,7 +140,8 @@ To make a self-introduction more engaging, adding personal anecdotes, accomplish
  Sentence Variation and Meaning Integrity: The article uses varied phrasing to emphasize Sasaki's performance without altering the core message, such as describing his forkball's "disgusting" movement and its metrics.
 - **Q3:** What **prompt adjustments** can improve repeatability in AI outputs?
  Prompt Adjustments for Repeatability: To improve repeatability, prompts could specify a focus on key performance indicators (e.g., specific metrics for players like Sasaki) or ask for detailed comparisons between these spring training surprises.
-
+***
+#📝 Quiz 3: Keyword Extraction & Repeatability Test (關鍵字提取與一致性測試 | キーワード抽出テスト)
 
 
 
