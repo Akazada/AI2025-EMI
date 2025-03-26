@@ -1,7 +1,7 @@
  week 6 
  ***
 * A upset cartoon dog with small eyes, slow movements, and a lively, cute expression
-
+"C:\Users\C8\Downloads\A upset cartoon dog with small eyes, slow movements, and a lively, cute expression.png"
 * A cheerful cartoon dog with big eyes and wearing super cool Sun glassese, exaggerated movements, and a lively, cute expression
 * A male and a female superhero flying dynamically over a futuristic city skyline in Taipei, both with exaggerated heroic poses, wearing sleek costumes, rendered in bold outlines and vivid colors in vibrant American comic book style, with motion lines, glowing effects, and dramatic lighting.
 * The five flying superhero-like and super cute pigs flying dynamically over a futuristic Taipei city skyline, both with exaggerated heroic poses, wearing sleek costumes, rendered in bold outlines and vivid colors in vibrant American comic book style, with motion lines, glowing effects, and dramatic lighting.
