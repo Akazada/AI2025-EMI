@@ -1,4 +1,4 @@
-Week 7: Exploring the More Skills of Text-to-Image AI: Applications, Mechanisms, Challenge
+### Week 7: Exploring the More Skills of Text-to-Image AI: Applications, Mechanisms, Challenge
 *Category A: Capturing Natural Motion
 Lab 19: Dynamic Water Flow
 ![image](https://github.com/user-attachments/assets/51ff47ed-c01c-4212-b074-536b541bc44b)
