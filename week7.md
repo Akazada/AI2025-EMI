@@ -49,16 +49,12 @@ Refined Prompt: “A peaceful landscape at sunset with misty mountains in the ba
 ***
 🚀 Challenge: How to merge N images to 1 image? 🤔
 * Case 1: beautiful blonde woman X long bus X strawberry caterpillar
-  
+  ![image](https://github.com/user-attachments/assets/aa2a5890-9e72-4ec6-9bc1-ecac9ad889eb)
 *  Case 2: Please refer to the case 1 then search and pick up 3 images about dogs and cats then merge them together, and submit your art work by the format of Case 1.
-  
+  ![image](https://github.com/user-attachments/assets/80d9f69a-179f-417e-930b-5859e3ec64e9)
 *  Case 3: Please refer to the case 1 then search and pick up 3 images about fish then merge them together, and submit your art work by the format of Case 1.
-  
+  ![image](https://github.com/user-attachments/assets/d20e6c30-c415-4088-8ec7-a6d13c64be6f)
 *  Case 4: Please refer to the case 1 then search and pick up 5 images about your country (e.g., Taiwan or Japan) then merge them together, and submit your art work by the format of Case 1.
-
+![image](https://github.com/user-attachments/assets/c5aaf4dc-e50b-414e-8b4d-29725cd0c294)
 *  Case 5: Please refer to the case 1 then search and pick up 5 images about the university you will go (e.g., SFSU, UCI, UWE) then merge them together, and submit your art work by the format of Case 1.
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/3d965d2e-f01b-481b-9775-3d6d395144b5)
