@@ -23,17 +23,27 @@ Lab 26: Precision Prompting & Image Recreation 🤔
 ### Final Lab Questions:
 1. How do specific prompt keywords affect the image output?
 *Descriptive words like “bright” or “dark” change the mood of the image.
+
 *Style words like “cartoon” or “realistic” tell the AI how to style the image.
+
 *Subject words like “mountain” or “dog” focus on what’s in the image.
+
 *Composition words like “close-up” or “wide shot” set the view of the image.
-2. What image details are hardest to replicate? Why?
+
+3. What image details are hardest to replicate? Why?
 *Tiny details like skin texture or fabric are tricky for the AI to recreate perfectly.
+
 *Facial expressions are hard because they need to capture emotion and subtle changes.
+
 *Natural elements like water or clouds are tough because they constantly change.
+
 *Abstract ideas like "feeling peaceful" don’t easily turn into visual images.
-3. How can prompts be refined to get closer to a target visual? Provide a revised prompt and explain your reasoning.
+
+5. How can prompts be refined to get closer to a target visual? Provide a revised prompt and explain your reasoning.
+6. 
 *To get a closer result, make your prompt more detailed. Instead of saying something like “A landscape with mountains,” you can say:
-*###Refined Prompt: “A peaceful landscape at sunset with misty mountains in the background, a calm river reflecting orange and purple skies, and a few trees along the riverbank.”
+Refined Prompt: “A peaceful landscape at sunset with misty mountains in the background, a calm river reflecting orange and purple skies, and a few trees along the riverbank.”
+
 *This gives clear details about lighting, mood, colors, and composition, helping the AI create the image more accurately.
 
 ***
