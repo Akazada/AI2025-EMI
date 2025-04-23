@@ -7,11 +7,11 @@ Users perform hand gestures in front of a camera, which captures and processes t
 ### 3. What is the system architecture?
 The DronePaint system comprises three main modules:​
 
- Human-Swarm Interface: Captures and interprets hand gestures using a camera and gesture recognition software.​
+ * Human-Swarm Interface: Captures and interprets hand gestures using a camera and gesture recognition software.​
 
- Trajectory Processing Module: Refines and prepares the drawn trajectories for drone execution.​
+ * Trajectory Processing Module: Refines and prepares the drawn trajectories for drone execution.​
 
- Drone Control System: Directs the drone swarm based on the processed trajectories.​
+ * Drone Control System: Directs the drone swarm based on the processed trajectories.​
 
 Hardware components include a Vicon Tracking system, Crazyflie 2.0 drones, and a Unity environment for visual feedback.
 ***
