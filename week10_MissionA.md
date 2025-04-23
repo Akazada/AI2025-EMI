@@ -7,13 +7,13 @@ Users perform hand gestures in front of a camera, which captures and processes t
 ### 3. What is the system architecture?
 The DronePaint system comprises three main modules:​
 
- * Human-Swarm Interface: Captures and interprets hand gestures using a camera and gesture recognition software.​
+ 1.Human-Swarm Interface: Captures and interprets hand gestures using a camera and gesture recognition software.​
 
- * Trajectory Processing Module: Refines and prepares the drawn trajectories for drone execution.​
+ 2.Trajectory Processing Module: Refines and prepares the drawn trajectories for drone execution.​
 
- * Drone Control System: Directs the drone swarm based on the processed trajectories.​
+ 3.Drone Control System: Directs the drone swarm based on the processed trajectories.​
 
-Hardware components include a Vicon Tracking system, Crazyflie 2.0 drones, and a Unity environment for visual feedback.
+ 4.Hardware components include a Vicon Tracking system, Crazyflie 2.0 drones, and a Unity environment for visual feedback.
 ***
 ### 4. Why smooth my hand’s path before flying?
 Smoothing the hand's path ensures that the generated trajectory is continuous and free from abrupt movements, which is crucial for precise drone control. This preprocessing step enhances the accuracy of the drone's flight path, reducing errors and improving the overall performance of the system. 
